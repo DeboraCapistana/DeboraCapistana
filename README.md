@@ -1,14 +1,16 @@
 ## Oiê! Eu sou a Débora Capistana!👋
 
-- 🔭 Atualmente, estou trabalhando em Administração
-- 🌱 Estou aprendendo JavaScript, lógica de programação e desenvolvimento web com foco em projetos práticos
+- 💼 Atualmente, estou trabalhando em Administração
+- 📚 Cursando Engenharia da Computação no IESB
+- 📝 Estou aprendendo JavaScript, lógica de programação e desenvolvimento web com foco em projetos práticos
 - 👯 Estou buscando colaborar em projetos de desenvolvimento e código aberto para evoluir como dev
-- 🤔 Estou buscando ajuda para melhorar a estrutura com códigos e colaborar com mais confiança em projetos
-
+- 🤔 Aberta a sugestões para melhorar a estrutura com códigos e colaborar com mais confiança em projetos
+  
+<hr style="height: 1px; background-color: #9B2242; border: none;">
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeboraCapistana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraCapistana&layout=compact&langs_count=16&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeboraCapistana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=9B2242"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraCapistana&layout=compact&langs_count=10&theme=dark&border_color=9B2242"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +21,7 @@
   <img align="center" alt="Debs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ________________
+<hr style="height: 1px; background-color: #9640B0; border: none;">
  
 <div> 
   <a href="https://www.instagram.com/debs.capistana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
